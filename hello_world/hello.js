@@ -1,1 +1,1 @@
-module.exports = "hello from hello.js"
+module.exports = "hello from hello.js";
